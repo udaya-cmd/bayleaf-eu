@@ -22,11 +22,7 @@ const Footer: React.FC = () => {
               <div className="bg-white p-2 rounded-full mr-2">
                 <Utensils size={20} className="text-spice-500" />
               </div>
-<<<<<<< HEAD
               <span className="font-display text-xl font-bold">Bay Leaf</span>
-=======
-              <span className="font-display text-xl font-bold">Madras Palace</span>
->>>>>>> 1be24bbee77544a551982ce6339fc60d3eed04ed
             </div>
             <p className="text-gray-400 mb-4">
               Authentic South Indian cuisine in the heart of Germany. 
@@ -73,28 +69,16 @@ const Footer: React.FC = () => {
               <li className="flex items-start">
                 <MapPin size={18} className="text-spice-400 mr-2 mt-1 flex-shrink-0" />
                 <span className="text-gray-400">
-<<<<<<< HEAD
                 August-Ruf-Straße 16, 78224 Singen (Hohentwiel)
-=======
-                  Wiesenhüttenplatz 25, 60329 Frankfurt am Main, Germany
->>>>>>> 1be24bbee77544a551982ce6339fc60d3eed04ed
                 </span>
               </li>
               <li className="flex items-center">
                 <Phone size={18} className="text-spice-400 mr-2 flex-shrink-0" />
-<<<<<<< HEAD
                 <span className="text-gray-400">+49 179 423 2002</span>
               </li>
               <li className="flex items-center">
                 <Mail size={18} className="text-spice-400 mr-2 flex-shrink-0" />
                 <span className="text-gray-400">info@bay-leaf.eu</span>
-=======
-                <span className="text-gray-400">+49 (0) 69 123 456 78</span>
-              </li>
-              <li className="flex items-center">
-                <Mail size={18} className="text-spice-400 mr-2 flex-shrink-0" />
-                <span className="text-gray-400">info@madraspalace.de</span>
->>>>>>> 1be24bbee77544a551982ce6339fc60d3eed04ed
               </li>
             </ul>
           </div>
@@ -106,21 +90,9 @@ const Footer: React.FC = () => {
               <li className="flex items-start">
                 <Clock size={18} className="text-spice-400 mr-2 mt-1 flex-shrink-0" />
                 <div>
-<<<<<<< HEAD
                   <p className="text-gray-400">Tuesday to Sunday</p>
                   <p className="text-white">11:30 AM – 2:30 PM / 5:30 PM - 10:00 PM</p>
                   <p className="text-white">Closed on Mondays</p>
-=======
-                  <p className="text-gray-400">Monday - Friday</p>
-                  <p className="text-white">12:00 - 22:00</p>
-                </div>
-              </li>
-              <li className="flex items-start">
-                <Clock size={18} className="text-spice-400 mr-2 mt-1 flex-shrink-0" />
-                <div>
-                  <p className="text-gray-400">Saturday - Sunday</p>
-                  <p className="text-white">12:00 - 23:00</p>
->>>>>>> 1be24bbee77544a551982ce6339fc60d3eed04ed
                 </div>
               </li>
             </ul>
@@ -130,11 +102,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-500 text-sm mb-4 md:mb-0">
-<<<<<<< HEAD
               &copy; {new Date().getFullYear()} Bay Leaf. All rights reserved.
-=======
-              &copy; {new Date().getFullYear()} Madras Palace. All rights reserved.
->>>>>>> 1be24bbee77544a551982ce6339fc60d3eed04ed
             </p>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-500 hover:text-spice-400 text-sm transition-colors">

@@ -163,11 +163,10 @@ const HeroSection: React.FC = () => {
                   </span>
                 )}
               </a>
-<<<<<<< HEAD
               <p className="text-blue text-bold text-xs xs:text-sm text-right">
-=======
+                </p>
+
               <p className="text-white/100 text-xs xs:text-sm text-right">
->>>>>>> 1be24bbee77544a551982ce6339fc60d3eed04ed
                 - Thiruvalluvar
               </p>
             </div>
